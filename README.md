@@ -46,3 +46,11 @@
 
 ![Normal Mode](https://img.shields.io/badge/NORMAL-A3BE8C?style=for-the-badge&logo=vim&logoColor=black&labelColor=A3BE8C&color=4C566A)![File](https://img.shields.io/badge/%E2%9C%9A_README.md-81A1C1?style=for-the-badge&labelColor=2E3440&color=81A1C1&logoColor=white)![Encoding](https://img.shields.io/badge/utf--8-B48EAD?style=for-the-badge&labelColor=2E3440&color=B48EAD)![Branch](https://img.shields.io/badge/%E2%8E%A7_main-EBCB8B?style=for-the-badge&logo=git&logoColor=black&labelColor=2E3440&color=EBCB8B)![Progress](https://img.shields.io/badge/100%25_%E2%98%B1:42-D08770?style=for-the-badge&labelColor=2E3440&color=D08770)
 
+</div>
+
+</td>
+</tr>
+</table>
+
+![tmux detach](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&pause=5000&color=A3BE8C&vCenter=true&width=600&lines=%E2%9D%AF+tmux+detach)<br>
+![detached](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&pause=5000&color=81A1C1&vCenter=true&width=600&lines=%5Bdetached+(from+session+github)%5D)
